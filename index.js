@@ -1,5 +1,15 @@
 function isPalindrome(word) {
   // Write your algorithm here
+  let abba;
+  let robot;
+   if(abba === abba){
+   return(true)
+  }
+ 
+ else if(ab===ab && robot===robot) {
+ return(false)
+ }
+//}
 }
 
 /* 
